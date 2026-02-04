@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/charithareddymule/devops-ci-miniwhat/actions/workflows/ci.yml/badge.svg)](https://github.com/charithareddymule/devops-ci-miniwhat/actions/workflows/ci.yml)
 # DevOps CI Mini Project
 
 This project demonstrates a simple Continuous Integration (CI) pipeline using GitHub Actions.
